@@ -13,3 +13,7 @@ Red River Gorge National Geological Area
 
  [amosrieber.github.io/rrg/](https://amosrieber.github.io/rrg/)
 
+ ## Photographs of the Red River Gorge
+ ![Natural Bridge Arch](natural-bridge.jpg)     
+ *Natural Bridge, photograph by Ken Thomas*
+
