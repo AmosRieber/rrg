@@ -7,6 +7,6 @@ Red River Gorge National Geological Area
 [Download a GeoPDF of arches](basemap/rrg.pdf)
  
 
-## Animation to 12 O'Clock Overlook at Kingdom Come State Park
+## Animation Tour of Path to 12 O'Clock Overlook at Kingdom Come State Park
 
-[AnimationTo12O'ClockOverlook](https://youtu.be/W0gAwp6gSCE)
+[Animation To 12 O'Clock Overlook](https://youtu.be/W0gAwp6gSCE)
