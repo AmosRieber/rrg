@@ -10,3 +10,5 @@ Red River Gorge National Geological Area
 ## Animation Tour of Path to 12 O'Clock Overlook at Kingdom Come State Park
 
 [Animation To 12 O'Clock Overlook](https://youtu.be/W0gAwp6gSCE)
+
+[12 O'clock Overlook](index.html)
