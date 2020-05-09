@@ -23,7 +23,8 @@ Kentucky does not only have the most navigable waterways, it is also home to the
 *Preview of map*
 
 ## Overlooks 
-![12O'clockOverlook](12O'clockOverlook.jpg) 
+![12O'clockOverlook](12O'clockOverlook.jpg)
+ 
 *12 O'clock Overlook, photograph by Victor Jordan*
 
 As with any state that has moutains, Kentucky also has many great overlooks. Kingdom Come State Park in Cumberland, Ky. has many great overlook views including "12 O'clock Overlook". 
